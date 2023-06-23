@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "name": "Jhalak Bhandari",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.awAiMS1BCAQ2xS2lcdXGlwHaHH&pid=Api&P=0&h=180",
+      "mobile": "9315999541",
+      "email": "bhandari.jhalak2018@gmail.com",
+      "company": "ACHARYA NARENDRA DEV COLLEGE",
+      "title": "Me",
+      "group": "3",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Neighbour"
+    },
+    {
+      "id": "5",
+      "name": "Relative"
+    }
+  ]
+}
